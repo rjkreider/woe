@@ -1,0 +1,180 @@
+{
+"Afraid": {
+	"Scared": [
+		"Helpless",
+		"Fearful"
+	],
+	"Anxious": [
+		"Overwhelm",
+		"Worry"
+	],
+	"Insecure": [
+		"Small",
+		"Inferior"
+	],
+	"Weak": [
+		"Hollow",
+		"Empty"
+	],
+	"Shaky": [
+		"Trembling",
+		"Unstable"
+	],
+	"Nervous": [
+		"Tight",
+		"Vulnerable"
+	]
+},
+"Angry": {
+	"Mistrust": [
+		"Exhaustion",
+		"Resentment"
+	],
+	"Shame": [
+		"Humiliation",
+		"Embarrassment"
+	],
+	"Jealous": [
+		"Indignant",
+		"Bitter"
+	],
+	"Mad": [
+		"Furious",
+		"Rage"
+	],
+	"Irritation": [
+		"Aggressive",
+		"Hostile"
+	],
+	"Frustration": [
+		"Tense",
+		"Annoyance"
+	],
+	"Distant": [
+		"Withdrawn",
+		"Numb"
+	],
+	"Critical": [
+		"Skeptical",
+		"Dismissive"
+	]
+},
+"Disgust": {
+	"Disapproval": [
+		"Judgment",
+		"Shock"
+	],
+	"Disdain": [
+		"Revulsion",
+		"Yucky"
+	],
+	"Sick": [
+		"Nausea",
+		"Awful"
+	],
+	"Repulsion": [
+		"Horror",
+		"Hesitance"
+	]
+},
+"Sad": {
+	"Hurt": [
+		"Pain",
+		"Disappointment"
+	],
+	"Depression": [
+		"Heavy",
+		"Weight"
+	],
+	"Guilty": [
+		"Remorseful",
+		"Shame"
+	],
+	"Despair": [
+		"Powerless",
+		"Grief"
+	],
+	"Vulnerable": [
+		"Fragile",
+		"Shaky"
+	],
+	"Lonely": [
+		"Longing",
+		"Achy"
+	]
+},
+"Happy": {
+	"Hope": [
+		"Inspiration",
+		"Openness"
+	],
+	"Trust": [
+		"Safety",
+		"Tenderness"
+	],
+	"Care": [
+		"Gratitude",
+		"Peaceful"
+	],
+	"Powerful": [
+		"Creative",
+		"Courageous"
+	],
+	"Acceptance": [
+		"Importance",
+		"Respect"
+	],
+	"Proud": [
+		"Confident",
+		"Strong"
+	],
+	"Curiosity": [
+		"Willingness",
+		"Interest"
+	],
+	"Content": [
+		"Joy",
+		"Free"
+	],
+	"Playful": [
+		"Mischevious",
+		"Arousal"
+	]
+},
+"Surprise": {
+	"Excitement": [
+		"Energetic",
+		"Eager"
+	],
+	"Amazement": [
+		"Awe",
+		"Astonishment"
+	],
+	"Confusion": [
+		"Dizzy",
+		"Unclear"
+	],
+	"Shock": [
+		"Dismay",
+		"Uncomfortable"
+	]
+},
+"Bad": {
+	"Tired": [
+		"Blurry",
+		"Sleepy"
+	],
+	"Stress": [
+		"Out of control",
+		"Overwhelm"
+	],
+	"Busy": [
+		"Pressure",
+		"Buzzy"
+	],
+	"Boredom": [
+		"Apathy",
+		"Absent"
+	]
+}
+}
